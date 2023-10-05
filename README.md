@@ -1,5 +1,7 @@
-#
+# conan-demo
+
+## Run
 
 ```bash
-conan install . --output-folder=build --build=missing
+make run
 ```
