@@ -1,9 +1,0 @@
-{
-    "version": 4,
-    "vendor": {
-        "conan": {}
-    },
-    "include": [
-        "/Users/joshbrusa/code/conan-demo/build/build/Release/generators/CMakePresets.json"
-    ]
-}
